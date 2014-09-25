@@ -1,0 +1,10 @@
+C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\bin\Debug\eRestaurant.dll.config
+C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\bin\Debug\eRestaurant.dll
+C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\bin\Debug\eRestaurant.pdb
+C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\bin\Debug\EntityFramework.dll
+C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\bin\Debug\EntityFramework.xml
+C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\obj\Debug\eRestaurant.csprojResolveAssemblyReference.cache
+C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\obj\Debug\eRestaurant.dll
+C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\obj\Debug\eRestaurant.pdb
