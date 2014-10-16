@@ -8,3 +8,13 @@ C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant
 C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\obj\Debug\eRestaurant.csprojResolveAssemblyReference.cache
 C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\obj\Debug\eRestaurant.dll
 C:\Users\tciarroni1\Documents\GitHub\In-Class-A02\eRestaurant Sample\eRestaurant\obj\Debug\eRestaurant.pdb
+F:\eRestaurant Program\eRestaurant\bin\Debug\eRestaurant.dll.config
+F:\eRestaurant Program\eRestaurant\bin\Debug\eRestaurant.dll
+F:\eRestaurant Program\eRestaurant\bin\Debug\eRestaurant.pdb
+F:\eRestaurant Program\eRestaurant\bin\Debug\EntityFramework.dll
+F:\eRestaurant Program\eRestaurant\bin\Debug\EntityFramework.SqlServer.dll
+F:\eRestaurant Program\eRestaurant\bin\Debug\EntityFramework.xml
+F:\eRestaurant Program\eRestaurant\bin\Debug\EntityFramework.SqlServer.xml
+F:\eRestaurant Program\eRestaurant\obj\Debug\eRestaurant.csprojResolveAssemblyReference.cache
+F:\eRestaurant Program\eRestaurant\obj\Debug\eRestaurant.dll
+F:\eRestaurant Program\eRestaurant\obj\Debug\eRestaurant.pdb

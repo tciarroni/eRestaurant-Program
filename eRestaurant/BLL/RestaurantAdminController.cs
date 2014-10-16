@@ -251,6 +251,19 @@ namespace eRestaurant.BLL
         #endregion
         #endregion
 
+        
 
+        [DataObjectMethod(DataObjectMethodType.Select, false)]      
+        public List<Reservation> ReservationsBySpecialEvent(string EventCode)
+        {
+            using (var context = new RestaurantContext())
+            {
+                var data = from item in context.Reservations
+                           where item.EventCode == EventCode
+                           select item;
+                return data.ToList();
+            }
+       }
+        
     }
 }

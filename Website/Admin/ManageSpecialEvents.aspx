@@ -8,14 +8,17 @@
        
         <EditItemTemplate>
             <div style="">
-                <asp:LinkButton runat="server" CommandName="Update" Text="Update" ID="LinkButton1" />
+                <asp:LinkButton runat="server" CommandName="Update" Text="Update" 
+                    ID="Update">Update<span class="glyphicon glyphicon-ok"></asp:LinkButton>
                 &nbsp;&nbsp;
-                <asp:LinkButton runat="server" CommandName="Cancel" Text="Cancel" ID="LinkButton2" />
+                <asp:LinkButton runat="server" CommandName="Cancel" Text="Cancel" 
+                     ID="Cancel">Cancel<span class="glyphicon glyphicon-remove-sign"></asp:LinkButton>
                 &nbsp;&nbsp;&nbsp;
                 EventCode:
                 <asp:TextBox Text='<%# Bind("EventCode") %>' runat="server" ID="EventCodeTextBox" />
                 Description:
                 <asp:TextBox Text='<%# Bind("Description") %>' runat="server" ID="DescriptionTextBox" />
+                &mdash;
                 <asp:CheckBox Checked='<%# Bind("Active") %>' runat="server" ID="ActiveCheckBox" Text="Active" />
               
        

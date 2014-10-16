@@ -1,0 +1,17 @@
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\eRestaurant.Requirements.dll.config
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\eRestaurant.Requirements.dll
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\eRestaurant.Requirements.pdb
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\EntityFramework.dll
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\EntityFramework.SqlServer.dll
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\eRestaurant.dll
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\TestStack.BDDfy.dll
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\xunit.dll
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\xunit.extensions.dll
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\eRestaurant.pdb
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\EntityFramework.xml
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\EntityFramework.SqlServer.xml
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\xunit.xml
+F:\eRestaurant Program\eRestaurant.Requirements\bin\Debug\xunit.extensions.xml
+F:\eRestaurant Program\eRestaurant.Requirements\obj\Debug\eRestaurant.Requirements.csprojResolveAssemblyReference.cache
+F:\eRestaurant Program\eRestaurant.Requirements\obj\Debug\eRestaurant.Requirements.dll
+F:\eRestaurant Program\eRestaurant.Requirements\obj\Debug\eRestaurant.Requirements.pdb
